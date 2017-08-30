@@ -1,17 +1,19 @@
-alan:
-    display_name: "Alan W. Black"
-    webpage: "http://www.cs.cmu.edu/~awb"
-    role: faculty
-    bio: |
-        Principal Researcher. 
-
 maxine:
     display_name: "Maxine Eskenazi"
     webpage: "http://www.cs.cmu.edu/~max/"
     role: faculty
     bio: |
-        Principal Researcher. 
-
+        Maxine S. Eskenazi received her Bachelor of Arts degree in Modern Languages from Carnegie-Mellon University in 1973. She received her DEA (Diplome d'Etudes Approfondies - equiv. Masters) in Linguistics from the University of Paris VII in 1981 and her Doctorat de Troisieme Cycle in Computer Science from the University of Paris XI in 1984. Her thesis was on "Caracterisation acoustique des voyelles francaises en vue de leur reconnaissance automatique" and her thesis advisor was Jean-Sylvain Lienard.
+        
+        She founded the Carnegie SpeechTM Company in 2001 and is Chief Technical Officer and Vice President. Carnegie SpeechTM is a CMU spinoff. She is presently Principal Systems Scientist in the Language Technologies Institute of the School of Computer Science of Carnegie Mellon University. She also holds a tenured research position at LIMSI-CNRS in Orsay, France. 
+        
+alan:
+    display_name: "Alan W. Black"
+    webpage: "http://www.cs.cmu.edu/~awb"
+    role: faculty
+    bio: |
+        Prof. Alan W Black is a world leader in the area of speech synthesis. He is a principal author of the [Festival Speech Synthesis System](http://festvox.org/festival), a free software system which has been used by a large number of academic and industrial groups through out the world. He is also the author of the pFestVox Voice Building tools](http://festvox.org/) which have been used to create speech synthesizers in over 40 different languages. He also wrote and distributes the small-footprint speech synthesizer [Flite](http://cmuflite.org). With Prof Tanja Scultz he has produced a web-based system for building recognizers and speech synthesizers in new languages (http://cmuspice.org). With Dr. Maxine Eskenazi, he has developed real spoken dialog system platforms through the NSF funded Dialog Research Center (http://dialrc.org) and he is the organizer for the [Spoken Dialog Challenge 2010](http://dialrc.org/sdc). In addition to speech synthesis he also carries out research in voice conversion and portable speech-to-speech translation systems. He was the pioneer if developing unit selection speech synthesis, where appropriate sub-word units are automatically selected from large databases of natural speech. This helped move the field of speech synthesis from a rule driven approach to a data driven approach.
+        
 kyusong:
     display_name: "Kyusong Lee"
     webpage: "http://skylar.speech.cs.cmu.edu/~kyusonglee/"
@@ -24,12 +26,26 @@ tony:
     webpage: "http://www.cs.cmu.edu/~tianchez/"
     role: grad
     bio: |
-        Ph.D student.
+        Tiancheng Zhao a PhD candidate at Language Technologies Institute (LTI) , Carnegie Mellon University, advised by Maxine Eskenazi and Alan W Black. His interest in general lies in spoken language processing and sequential decision-making for dialog systems. His current research focuses on 1) modeling long-term context in human-human and human-machine conversations and 2) end-to-end trainable dialog models that can conduct both goal driven and non-goal driven conversations via deep (reinforcement) learning. Before becoming a PhD student at Carnegie Mellon University, he graduated from the Master of Language Technologies (MLT) program at LTI in 2016. Prior to that, I obtained his bachelor degree in Electrical Engineering from University of California, Los Angeles and worked on speech signal processing, advised by Abeer Alwan.
 
 yulun:
     display_name: "Yulun Du"
     webpage: "http://www.yulundu.com"
     role: grad
     bio: |
-        MLT student.
+        Yulun Du is a first-year graduate student of Language Technologies Institute in the School of Computer Science at Carnegie Mellon University. He is working under the supervisions of Dr. Maxine Eskenazi and Prof. Alan W. Black. He is broadly interested in research problems in intersection with Machine Learning and Natural Language Processing with a research goal to develop intelligent systems that can understand language and interact with human. Prior to coming to CMU, Yulun spent his undergraduate years at UIUC working with his esteemed professors Kevin C. Chang and Aditya Parameswaran.
+
+tianyao:
+    display_name: "Ting-yao Hu"
+    role: alum
+    webpage: "https://www.linkedin.com/in/hu-ting-yao-3a6017a6/"
+    
+sungjin:
+    display_name: "Sungjin Lee"
+    role: alum
+    webpage: "https://www.linkedin.com/in/sungjinlee/"
+
+
+
+
 
