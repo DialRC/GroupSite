@@ -12,10 +12,10 @@ permalink: /blog/:year/:month/:day/:title.html
 # Sections on the "people" page.
 roles:
     - {key: faculty, name: Faculty}
-    - {key: staff, name: Staff}
+    #- {key: staff, name: Staff}
     - {key: postdoc, name: Researchers}
     - {key: grad, name: Graduate Students}
-    - {key: collab, name: Collaborators}
+    #- {key: collab, name: Collaborators}
     - {key: alum, name: Alumni}
 
 # Number of news stories on the front page.

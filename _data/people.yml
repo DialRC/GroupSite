@@ -1,29 +1,35 @@
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
+alan:
+    display_name: "Alan W. Black"
+    webpage: "http://www.cs.cmu.edu/~awb"
     role: faculty
     bio: |
-        Professor X is the leader and founder of X-Men. 
-melody:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
+        Principal Researcher. 
+
+maxine:
+    display_name: "Maxine Eskenazi"
+    webpage: "http://www.cs.cmu.edu/~max/"
+    role: faculty
     bio: |
-        Scott, also known as Cyclops, shoots lasers from his eyes, which makes him the perfect administrative assistant.
+        Principal Researcher. 
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
+kyusong:
+    display_name: "Kyusong Lee"
+    webpage: "http://skylar.speech.cs.cmu.edu/~kyusonglee/"
     role: postdoc
+    bio: |
+        Post-Doctoral Researcher.
 
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+tony:
+    display_name: "Tiancheng (Tony) Zhao"
+    webpage: "http://www.cs.cmu.edu/~tianchez/"
     role: grad
+    bio: |
+        Ph.D student.
 
-jean:
-    display_name: "Jean Grey"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+yulun:
+    display_name: "Yulun Du"
+    webpage: "http://www.yulundu.com"
+    role: grad
+    bio: |
+        MLT student.
+
