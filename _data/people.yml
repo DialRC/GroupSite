@@ -3,30 +3,72 @@ maxine:
     webpage: "http://www.cs.cmu.edu/~max/"
     role: faculty
     bio: |
-        Maxine S. Eskenazi received her Bachelor of Arts degree in Modern Languages from Carnegie-Mellon University in 1973. She received her DEA (Diplome d'Etudes Approfondies - equiv. Masters) in Linguistics from the University of Paris VII in 1981 and her Doctorat de Troisieme Cycle in Computer Science from the University of Paris XI in 1984. Her thesis was on "Caracterisation acoustique des voyelles francaises en vue de leur reconnaissance automatique" and her thesis advisor was Jean-Sylvain Lienard.
+        Maxine S. Eskenazi received her Bachelor of Arts degree in Modern Languages from Carnegie-Mellon University in 1973.
+        She received her DEA (Diplome d'Etudes Approfondies - equiv. Masters) in Linguistics from the University of Paris VII in 1981 and her Doctorat de Troisieme Cycle in Computer Science from the University of Paris XI in 1984.
+        Her thesis was on "Caracterisation acoustique des voyelles francaises en vue de leur reconnaissance automatique" and her thesis advisor was Jean-Sylvain Lienard.
         
-        She founded the Carnegie SpeechTM Company in 2001 and is Chief Technical Officer and Vice President. Carnegie SpeechTM is a CMU spinoff. She is presently Principal Systems Scientist in the Language Technologies Institute of the School of Computer Science of Carnegie Mellon University. She also holds a tenured research position at LIMSI-CNRS in Orsay, France. 
+        She founded the [Carnegie Speech<sup>TM</sup>](http://www.carnegiespeech.com) company in 2001 and is Chief Technical Officer and Vice President.
+        Carnegie Speech<sup>TM</sup> is a CMU spinoff. She is presently Principal Systems Scientist in the Language Technologies Institute of the School of Computer Science of Carnegie Mellon University.
+        She also holds a tenured research position at LIMSI-CNRS in Orsay, France.
         
 alan:
     display_name: "Alan W. Black"
     webpage: "http://www.cs.cmu.edu/~awb"
     role: faculty
     bio: |
-        Prof. Alan W Black is a world leader in the area of speech synthesis. He is a principal author of the [Festival Speech Synthesis System](http://festvox.org/festival), a free software system which has been used by a large number of academic and industrial groups through out the world. He is also the author of the pFestVox Voice Building tools](http://festvox.org/) which have been used to create speech synthesizers in over 40 different languages. He also wrote and distributes the small-footprint speech synthesizer [Flite](http://cmuflite.org). With Prof Tanja Scultz he has produced a web-based system for building recognizers and speech synthesizers in new languages (http://cmuspice.org). With Dr. Maxine Eskenazi, he has developed real spoken dialog system platforms through the NSF funded Dialog Research Center (http://dialrc.org) and he is the organizer for the [Spoken Dialog Challenge 2010](http://dialrc.org/sdc). In addition to speech synthesis he also carries out research in voice conversion and portable speech-to-speech translation systems. He was the pioneer if developing unit selection speech synthesis, where appropriate sub-word units are automatically selected from large databases of natural speech. This helped move the field of speech synthesis from a rule driven approach to a data driven approach.
+        Prof. Alan W Black is a world leader in the area of speech synthesis. He is a principal author of the [Festival Speech Synthesis System](http://festvox.org/festival), a free software system which has been used by a large number of academic and industrial groups through out the world.
+        He is also the author of the [FestVox Voice Building tools](http://festvox.org/) which have been used to create speech synthesizers in over 40 different languages. He also wrote and distributes the small-footprint speech synthesizer [Flite](http://cmuflite.org).
+        With Prof. Tanja Scultz he has produced a web-based system for building recognizers and speech synthesizers in new languages (http://cmuspice.org).
+
+        With Dr. Maxine Eskenazi, he has developed real spoken dialog system platforms through the NSF funded [Dialog Research Center](http://dialrc.org) and he is the organizer for the [Spoken Dialog Challenge 2010](http://dialrc.org/sdc).
+        In addition to speech synthesis he also carries out research in voice conversion and portable speech-to-speech translation systems.
+        He was the pioneer if developing unit selection speech synthesis, where appropriate sub-word units are automatically selected from large databases of natural speech.
+        This helped move the field of speech synthesis from a rule driven approach to a data driven approach.
         
 kyusong:
     display_name: "Kyusong Lee"
     webpage: "http://skylar.speech.cs.cmu.edu/~kyusonglee/"
     role: postdoc
     bio: |
-        Kyusong Lee is a postdoctoral associate at Language Technologies Institute (LTI), Carnegie Mellon University, advised by Maxine Eskenazi. He served for a year at Carnegie Mellon University as a research scholar. He earned a PhD from Pohang University of Science and Technology in South Korea. He has additionally served in research capacities for Microsoft Research Asia in Beijing and IBM Research in New York. 
+        Kyusong Lee is a postdoctoral associate at Language Technologies Institute (LTI), Carnegie Mellon University, advised by Maxine Eskenazi.
+        He served for a year at Carnegie Mellon University as a research scholar.
+        He earned a PhD from Pohang University of Science and Technology in South Korea.
+        He has additionally served in research capacities for Microsoft Research Asia in Beijing and IBM Research in New York.
+
+yongjun:
+    display_name: "Yongjun He"
+    webpage: "http://www.researchgate.net/profile/Yongjun_He"
+    role: postdoc
+    bio: |
+      Yongjun is an associate professor at Harbin University, China, and now advised by Maxine Eskenazi as a visiting researcher
+      at at Language Technologies Institute (LTI), Carnegie Mellon University.
+
+junki:
+    display_name: "Junki Ohmura"
+    webpage: "http://linkedin.com/in/junki/"
+    role: postdoc
+    bio: |
+      Junki Ohmura is a Sony’s AI researcher and now advised by Maxine Eskenazi as a visiting researcher
+      at Language Technologies Institute (LTI), Carnegie Mellon University.
+      He earned a Master degree from Waseda University in Japan.
+      At Sony, he has been working as a human computer interaction researcher for developing consumer products
+      such as PlayStation 4, smartphones and TV.
+
 
 tony:
     display_name: "Tiancheng (Tony) Zhao"
     webpage: "http://www.cs.cmu.edu/~tianchez/"
     role: grad
     bio: |
-        Tiancheng Zhao a PhD candidate at Language Technologies Institute (LTI) , Carnegie Mellon University, advised by Maxine Eskenazi and Alan W Black. His interest in general lies in spoken language processing and sequential decision-making for dialog systems. His current research focuses on 1) modeling long-term context in human-human and human-machine conversations and 2) end-to-end trainable dialog models that can conduct both goal driven and non-goal driven conversations via deep (reinforcement) learning. Before becoming a PhD student at Carnegie Mellon University, he graduated from the Master of Language Technologies (MLT) program at LTI in 2016. Prior to that, I obtained his bachelor degree in Electrical Engineering from University of California, Los Angeles and worked on speech signal processing, advised by Abeer Alwan.
+        Tiancheng Zhao a PhD candidate at Language Technologies Institute (LTI) , Carnegie Mellon University,
+        advised by Maxine Eskenazi and Alan W Black.
+        His interest in general lies in spoken language processing and sequential decision-making for dialog systems.
+        His current research focuses on developing deep-learning based end-to-end dialog systems that can carry out both task
+        and chat-driven conversations in multiple real-world domains.
+        Before becoming a PhD student at Carnegie Mellon University, he graduated from the Master of Language Technologies
+        (MLT) program at LTI in 2016.
+        Prior to that, I obtained his bachelor degree in Electrical Engineering from University of California, Los Angeles
+        and worked on speech signal processing, advised by Abeer Alwan.
 
 yulun:
     display_name: "Yulun Du"
@@ -39,13 +81,16 @@ tianyao:
     display_name: "Ting-yao Hu"
     role: alum
     webpage: "https://www.linkedin.com/in/hu-ting-yao-3a6017a6/"
-    
+
+shrimai:
+    display_name: "Shrimai Prabhumoye"
+    role: alum
+    webpage: "http://www.cs.cmu.edu/~sprabhum/"
+
 sungjin:
     display_name: "Sungjin Lee"
     role: alum
     webpage: "https://www.linkedin.com/in/sungjinlee/"
-
-
 
 
 
