@@ -4,26 +4,36 @@ title: Home
 notitle: true
 ---
 <div class="jumbotron">
-  <p>
-    <b>DialRC</b> at <b>Language Technologies Institute, Carnegie Mellon University </b> developes conversational interfaces for more natural and efficient human-computer interaction.
-  </p>
+    <p>
+        <b>DialRC</b> at <b>Language Technologies Institute, Carnegie Mellon University </b> developes conversational
+        interfaces for more natural and efficient human-computer interaction.
+    </p>
+</div>
+
+<div class="sds">
+    <a href="{{ site.base }}/">
+        <img src="{{ site.base }}/img/sds.jpg"
+             srcset="{{ site.base }}/img/sds.jpg 2x"
+             alt="Background Image"
+             id="sds" align="center">
+    </a>
 </div>
 
 <h2>News</h2>
 <ul class="news list-unstyled">
-{% for post in site.posts limit: site.front_page_news %}
+    {% for post in site.posts limit: site.front_page_news %}
     {% if post.shortnews %}
-        <li class="shortnews">
-            <span class="date">{{ post.date | date_to_long_string }}</span>
-            {{ post.content }}
-        </li>
+    <li class="shortnews">
+        <span class="date">{{ post.date | date_to_long_string }}</span>
+        {{ post.content }}
+    </li>
     {% else %}
-        <li class="bloglink">
-            <span class="date">{{ post.date | date_to_long_string }}</span>
-            <a href="{{ post.url }}">&raquo; {{ post.title }}</a>
-        </li>
+    <li class="bloglink">
+        <span class="date">{{ post.date | date_to_long_string }}</span>
+        <a href="{{ post.url }}">&raquo; {{ post.title }}</a>
+    </li>
     {% endif %}
-{% endfor %}
+    {% endfor %}
 </ul>
 {% assign numposts = site.posts | size %}
 {% if numposts >= site.front_page_news %}

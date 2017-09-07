@@ -54,6 +54,15 @@ body {
     padding-bottom: 10px;
 }
 
+/* SDS */
+.sds {
+    text-align: center;
+}
+
+#sds {
+    width: 450px;
+}
+
 /* Group logo */
 #logo {
     width: 112px;

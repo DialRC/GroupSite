@@ -54,7 +54,6 @@ junki:
       At Sony, he has been working as a human computer interaction researcher for developing consumer products
       such as PlayStation 4, smartphones and TV.
 
-
 tony:
     display_name: "Tiancheng (Tony) Zhao"
     webpage: "http://www.cs.cmu.edu/~tianchez/"
@@ -75,7 +74,12 @@ yulun:
     webpage: "http://www.yulundu.com"
     role: grad
     bio: |
-        Yulun Du is a first-year graduate student of Language Technologies Institute in the School of Computer Science at Carnegie Mellon University. He is working under the supervisions of Dr. Maxine Eskenazi and Prof. Alan W. Black. He is broadly interested in research problems in intersection with Machine Learning and Natural Language Processing with a research goal to develop intelligent systems that can understand language and interact with human. Prior to coming to CMU, Yulun spent his undergraduate years at UIUC working with his esteemed professors Kevin C. Chang and Aditya Parameswaran.
+        Yulun Du is a first-year graduate student of Language Technologies Institute in the School of Computer Science at Carnegie Mellon University.
+        He is working under the supervisions of Dr. Maxine Eskenazi and Prof. Alan W. Black.
+        He is broadly interested in research problems in intersection with Machine Learning and Natural Language Processing
+        with a research goal to develop intelligent systems that can understand language and interact with human.
+        Prior to coming to CMU, Yulun spent his undergraduate years at UIUC working with his esteemed professors
+        Kevin C. Chang and Aditya Parameswaran.
 
 tianyao:
     display_name: "Ting-yao Hu"

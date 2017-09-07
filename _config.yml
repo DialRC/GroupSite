@@ -1,5 +1,5 @@
 name: DialRC
-url: http://awesome.example.edu
+url: http://dialrc.org
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
