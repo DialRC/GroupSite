@@ -112,6 +112,10 @@ dl.people dd {
     margin-bottom: 1em;
 }
 
+.person {
+    font-size: 1.2em;
+}
+
 /* Front page news. */
 ul.news .date {
     color: #999;

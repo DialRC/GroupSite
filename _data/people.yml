@@ -18,9 +18,9 @@ alan:
     bio: |
         Prof. Alan W Black is a world leader in the area of speech synthesis. He is a principal author of the [Festival Speech Synthesis System](http://festvox.org/festival), a free software system which has been used by a large number of academic and industrial groups through out the world.
         He is also the author of the [FestVox Voice Building tools](http://festvox.org/) which have been used to create speech synthesizers in over 40 different languages. He also wrote and distributes the small-footprint speech synthesizer [Flite](http://cmuflite.org).
-        With Prof. Tanja Scultz he has produced a web-based system for building recognizers and speech synthesizers in new languages (http://cmuspice.org).
+        With Prof. Tanja Scultz he has produced a web-based system for building recognizers and [speech synthesizers in new languages](http://cmuspice.org).
 
-        With Dr. Maxine Eskenazi, he has developed real spoken dialog system platforms through the NSF funded [Dialog Research Center](http://dialrc.org) and he is the organizer for the [Spoken Dialog Challenge 2010](http://dialrc.org/sdc).
+        With Dr. Maxine Eskenazi, he has developed real spoken dialog system platforms through the NSF funded [Dialog Research Center (Dialrc)](http://dialrc.org) and he is the organizer for the [Spoken Dialog Challenge 2010](http://dialrc.org/sdc).
         In addition to speech synthesis he also carries out research in voice conversion and portable speech-to-speech translation systems.
         He was the pioneer if developing unit selection speech synthesis, where appropriate sub-word units are automatically selected from large databases of natural speech.
         This helped move the field of speech synthesis from a rule driven approach to a data driven approach.
