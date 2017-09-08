@@ -2,8 +2,7 @@
 layout: default
 title: Code
 ---
-This is an example of an additional page you could add to the site (and its navigation).
 
-If you like this template, find our group's other code here:
+You can find our published code and dataset in this page. Please check for the licensing terms. Contact corresponding authors if you could not find what you are looking for.
 
- * [uwsampa on GitHub](https://github.com/uwsampa/)
+ * [kgCVAE](https://github.com/snakeztc/NeuralDialog-CVAE): Tensorflow Implementation of Knowledge-Guided CVAE for dialog generation by Tiancheng Zhao. For more details please look at our ACL paper.
