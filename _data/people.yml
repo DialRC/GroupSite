@@ -40,8 +40,11 @@ yongjun:
     webpage: "http://www.researchgate.net/profile/Yongjun_He"
     role: postdoc
     bio: |
-      Yongjun is an associate professor at Harbin University, China, and now advised by Maxine Eskenazi as a visiting researcher
-      at at Language Technologies Institute (LTI), Carnegie Mellon University.
+     Yongjun He received the B.S. degree in Computer Science and Technology from the Harbin University of Science and Technology,
+     Harbin, China in 2003, the M.S. Ph.D. degrees in the School of Computer Science from the Harbin Institute of Technology,
+     Harbin, China in 2006 and 2008, respectively. Currently, he is an associate professor in the school of Computer Science and
+      Technology, Harbin University of Science and Technology. He is a visiting scholar in the CMU. His research interests
+      include speech speaker recognition, speech recognition and machine learning.
 
 junki:
     display_name: "Junki Ohmura"
