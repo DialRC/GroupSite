@@ -23,3 +23,4 @@ HOST := root@kermit.speech.cs.cmu.edu
 PATHSVR := /var/www/
 deploy: clean all
 	rsync --compress --recursive --checksum --itemize-changes --exclude old_dialrc --delete -e ssh _site/ $(HOST):$(PATHSVR)
+	scp -r private/* $(HOST):$(PATHSVR)

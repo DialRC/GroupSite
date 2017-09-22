@@ -16,8 +16,8 @@ Please check for the licensing terms. Contact corresponding authors if you could
  * [Portal Web](https://skylar.speech.cs.cmu.edu/master/PortalSite/index.html): Portal's main interface. 
  Support any modern browsers for text-based conversation. Support continuous speech interaction on Chrome. 
  
- * [Portal API](https://github.com/DialRC/PortalAPI): Detailed Documentation about building a server to 
- connect to DialPort portal. The repository also provides a list of pre-built server SDK for easy integration.
+ * [Portal API](https://github.com/DialRC/PortalAPI): Detailed documentation about the process of  
+ connecting to DialPort portal. The repository also provides a list of pre-built server SDK for easy integration.
  Currently we provide code templates for Java Spark, Python Flask and Nodejs.
 
  * [DSTC1](https://www.microsoft.com/en-us/research/event/dialog-state-tracking-challenge/): 
