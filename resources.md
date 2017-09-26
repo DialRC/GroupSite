@@ -13,10 +13,10 @@ Please check for the licensing terms. Contact corresponding authors if you could
  * [Portal Messenger Bot](https://www.facebook.com/TheDialportProject): Portal is available for 
  chat 24/7 as a Facebook Messenger Bot. 
 
- * [Portal Web](https://skylar.speech.cs.cmu.edu/master/PortalSite/index.html): Portal's main interface. 
+ * [Portal Web](https://skylar.speech.cs.cmu.edu): Portal's main interface. 
  Support any modern browsers for text-based conversation. Support continuous speech interaction on Chrome. 
  
- * [Portal API](https://github.com/DialRC/PortalAPI): Detailed documentation about the process of  
+ * [Portal API](https://dialrc.github.io/PortalAPI/): Detailed documentation about the process of  
  connecting to DialPort portal. The repository also provides a list of pre-built server SDK for easy integration.
  Currently we provide code templates for Java Spark, Python Flask and Nodejs.
 
