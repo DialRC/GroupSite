@@ -15,7 +15,7 @@ natural and efficient human-computer interaction. Specifically, we have several 
 
 ### DialPort: Spoken Dialog Research with Real Data
 
-NSF-funded DialPort has 3 thrusts: [Tools]((dialport.ict.usc.edu)), 
+NSF-funded DialPort has 3 thrusts: [Tools](http://dialport.ict.usc.edu), 
 [Portal](skylar.speech.cs.cmu.edu) and [Real Challenge](https://dialrc.org/research/). 
 The Portal gives your connected dialog system a stream of user data. 
 You can also request data that other systems have gathered. 
