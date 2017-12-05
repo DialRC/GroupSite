@@ -62,14 +62,14 @@ tony:
     webpage: "http://www.cs.cmu.edu/~tianchez/"
     role: grad
     bio: |
-        Tiancheng Zhao a PhD candidate at Language Technologies Institute (LTI) , Carnegie Mellon University,
+        Tiancheng Zhao is a PhD candidate at Language Technologies Institute (LTI) , Carnegie Mellon University,
         advised by Maxine Eskenazi and Alan W Black.
         His interest in general lies in spoken language processing and sequential decision-making for dialog systems.
         His current research focuses on developing deep-learning based end-to-end dialog systems that can carry out both task
         and chat-driven conversations in multiple real-world domains.
         Before becoming a PhD student at Carnegie Mellon University, he graduated from the Master of Language Technologies
         (MLT) program at LTI in 2016.
-        Prior to that, I obtained his bachelor degree in Electrical Engineering from University of California, Los Angeles
+        Prior to that, Tiancheng obtained his bachelor degree in Electrical Engineering from University of California, Los Angeles
         and worked on speech signal processing, advised by Abeer Alwan.
 
 yulun:
@@ -77,22 +77,24 @@ yulun:
     webpage: "http://www.yulundu.com"
     role: grad
     bio: |
-        Yulun Du is a first-year graduate student of Language Technologies Institute in the School of Computer Science at Carnegie Mellon University.
+        Yulun Du is a second-year graduate student of Language Technologies Institute in the School of Computer Science at Carnegie Mellon University.
         He is working under the supervisions of Dr. Maxine Eskenazi and Prof. Alan W. Black.
         He is broadly interested in research problems in intersection with Machine Learning and Natural Language Processing
         with a research goal to develop intelligent systems that can understand language and interact with human.
         Prior to coming to CMU, Yulun spent his undergraduate years at UIUC working with his esteemed professors
         Kevin C. Chang and Aditya Parameswaran.
 
+tzuhsial:
+    display_name: "Tzu Hsiang Lin"
+    webpage: "https://www.linkedin.com/in/tzuhsianglin/"
+    role: grad
+    bio: |
+        Tzu Hsiang is a first-year graduate student of Language Technologies Institute in the School of Computer Science at Carnegie Mellon University.
+
 tianyao:
     display_name: "Ting-yao Hu"
     role: alum
     webpage: "https://www.linkedin.com/in/hu-ting-yao-3a6017a6/"
-
-shrimai:
-    display_name: "Shrimai Prabhumoye"
-    role: alum
-    webpage: "http://www.cs.cmu.edu/~sprabhum/"
 
 sungjin:
     display_name: "Sungjin Lee"
