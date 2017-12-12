@@ -35,7 +35,7 @@ more about how to connect, read our **[tutorial](https://dialrc.github.io/Portal
 
 Read more about it and **talk to our agent Skylar [here][dialport]**.
 
-[dialport]: https://skylar.speech.cs.cmu.edu/master/PortalSite/
+[dialport]: http://dialport.org
 
 #### The REAL Challenge: New Ideas for Future Dialog Systems
 The REAL Challenge took place for the first time in 2014, with a long term goal of creating streams of 
