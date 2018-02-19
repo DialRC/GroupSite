@@ -28,7 +28,7 @@ Olympus is a complete framework for implementing spoken dialog systems. It was c
 
 #### Data
  * [Let's Go Dataset](https://dialrc.github.io/LetsGoDataset/): 
- Let’s Go! is a spoken dialog system that can be used by the general public. We provide public availability for the whole data obtained from the Let’s Go dialog system and its derivitives.
+ Let’s Go! is a spoken dialog system that can be used by the general public. We provide public availability for the whole data obtained from the Let’s Go dialog system and its derivatives.
 
  * [DSTC1](https://www.microsoft.com/en-us/research/event/dialog-state-tracking-challenge/): 
  The first Dialog State Tracking Challenge (DSTC-1) data. The data contains both raw and annotated conversations 
